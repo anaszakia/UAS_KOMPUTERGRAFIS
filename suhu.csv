@@ -1,0 +1,28 @@
+waktu,suhu,asimilasi/observasi/non asimilasi
+00.00 UTC/24 Juli 2013,23,asimilasi 
+00.00 UTC/24 Juli 2013,24,observasi
+00.00 UTC/24 Juli 2013,23.5,non asimilasi
+03.00 UTC,25.5,asimilasi 
+03.00 UTC,25,observasi
+03.00 UTC,25.7,non asimilasi
+06.00 UTC,25.5,asimilasi 
+06.00 UTC,24,observasi
+06.00 UTC,25.3,non asimilasi
+09.00 UTC,24.8,asimilasi 
+09.00 UTC,24,observasi
+09.00 UTC,25.5,non asimilasi
+12.00 UTC,22.5,asimilasi 
+12.00 UTC,24,observasi
+12.00 UTC,25,non asimilasi
+15.00 UTC,22.3,asimilasi 
+15.00 UTC,24.2,observasi
+15.00 UTC,25,non asimilasi
+18.00 UTC,23,asimilasi 
+18.00 UTC,24,observasi
+18.00 UTC,24.8,non asimilasi
+21.00 UTC,22,asimilasi 
+21.00 UTC,22.8,observasi
+21.00 UTC,24.2,non asimilasi
+24.00 UTC/25 Juli 2013,25.7,asimilasi 
+24.00 UTC/25 Juli 2013,23,observasi
+24.00 UTC/25 Juli 2013,25.8,non asimilasi
